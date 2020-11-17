@@ -1,25 +1,27 @@
-## Welcome to GitHub Pages
+# Bomi Kang (강보미)
 
-You can use the [editor on GitHub](https://github.com/bbomikang/bbomikang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Applying program: Fall 2021 Economics Ph.D. 
 
-### Markdown
+Email: bomi.kang@yonsei.ac.kr
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Address: Yonsei University, 50 Yonsei-ro Seodaemun-gu, Seoul, 03722, Republic of Korea 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Research Interests
 
-- Bulleted
-- List
+Applied Microeconomics, Behavioral Economics, Technological change, Innovation
 
-1. Numbered
-2. List
+## Education
+
+- **Yonsei University**, M.A. in **Economics** 
+
+  Mar. 2019 - Feb. 2021 (Expected)
+- **Yonsei University**, B.A. in **Economics**, minor in **Applied Statistics** 
+
+  Mar. 2014 – Feb. 2019
+
+
 
 **Bold** and _Italic_ and `Code` text
 
