@@ -23,14 +23,12 @@ Applied Microeconomics, Behavioral Economics, Technological change, Innovation
 
   Mar. 2014 – Feb. 2019
 
-## PUBLICATION
-
-- **Bomi Kang** and [Kyung-woo Lee](https://sites.google.com/site/kwlee76/). "The Effect of Income Types on Entertainment Consumption" _The Korean Journal of Economics, 26, no.2_ (2019). [Online](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002548071)
-
 ## WORKING PAPERS
 
 - **Bomi Kang**, [Sang-Hyun Kim](https://sites.google.com/site/sanghyunkim46/home), [Hyungsik Roger Moon](https://dornsife.usc.edu/hyungsik-roger-moon/vitae/). "The AlphaGo Effect: An Investigation of Innovation in Contest"
 
 - **Bomi Kang**, [Sang-Hyun Kim](https://sites.google.com/site/sanghyunkim46/home), [Hyungsik Roger Moon](https://dornsife.usc.edu/hyungsik-roger-moon/vitae/). "Team and I Go Together: Evidence from the Korean Go League"
 
+## PUBLICATION
 
+- **Bomi Kang** and [Kyung-woo Lee](https://sites.google.com/site/kwlee76/). "Income Types and Culture and Entertainment Expenses" _The Korean Journal of Economics, 26, no.2_ (2019). [Online](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002548071)
