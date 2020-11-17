@@ -1,5 +1,7 @@
-# Bomi Kang (강보미)
+![It's me]()
 
+
+# Bomi Kang (강보미)
 
 Applying program: Fall 2021 Economics Ph.D. 
 
@@ -25,18 +27,10 @@ Applied Microeconomics, Behavioral Economics, Technological change, Innovation
 
 - **Bomi Kang** and [Kyung-woo Lee](https://sites.google.com/site/kwlee76/). "The Effect of Income Types on Entertainment Consumption" _The Korean Journal of Economics, 26, no.2_ (2019). [Online](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002548071)
 
+## WORKING PAPERS
 
-**Bold** and _Italic_ and `Code` text
+- **Bomi Kang**, [Sang-Hyun Kim](https://sites.google.com/site/sanghyunkim46/home), [Hyungsik Roger Moon](https://dornsife.usc.edu/hyungsik-roger-moon/vitae/). "The AlphaGo Effect: An Investigation of Innovation in Contest"
 
-[Link](url) and ![Image](src)
-```
+- **Bomi Kang**, [Sang-Hyun Kim](https://sites.google.com/site/sanghyunkim46/home), [Hyungsik Roger Moon](https://dornsife.usc.edu/hyungsik-roger-moon/vitae/). "Team and I Go Together: Evidence from the Korean Go League"
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbomikang/bbomikang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
