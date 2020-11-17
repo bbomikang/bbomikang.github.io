@@ -21,6 +21,9 @@ Applied Microeconomics, Behavioral Economics, Technological change, Innovation
 
   Mar. 2014 – Feb. 2019
 
+## PUBLICATION
+
+- **Bomi Kang** and [Kyung-woo Lee](https://sites.google.com/site/kwlee76/). "The Effect of Income Types on Entertainment Consumption" _The Korean Journal of Economics, 26, no.2_ (2019). [Online](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002548071)
 
 
 **Bold** and _Italic_ and `Code` text
