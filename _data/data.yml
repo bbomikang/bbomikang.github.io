@@ -1,175 +1,92 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
 sidebar:
-  position: right
-  about: True
-  education: False  # Assuming you want education in the main content area, not the sidebar
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: David D. Shin
-  tagline: Assistant Professor of Economics University of Tennessee, Knoxville
-  avatar: profile.png  # Place this image in '/assets/images/'
+  name: Bomi Kang
+  tagline: Economics PhD Candidate
+  avatar: bomi.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: dshin5 [at] utk.edu
-  phone: ''  # Phone number removed, leave empty or remove
-  timezone: EST  # Eastern Standard Time
-  citizenship: ''  # Citizenship remains blank, leave empty or remove
-  website: daviddshin.github.io  # No need to add http://
-  linkedin: david-d-shin-893a049b
-  github: daviddshin
-  twitter: david_d_shin
-  pdf: '/assets/files/cv.pdf'  # Path to the CV PDF
+  email: bomi.kang@duke.edu
+  website: bbomikang.github.io 
+  linkedin: bomi-kang-346929271
+
+  #pdf: '/assets/files/cv.pdf'  # Path to the CV PDF
 
   # Research Interests
   interests:
     title: Research Interests
     info:
-      - item: International Economics
-      - item: Macroeconomics
-      - item: Environmental Economics
-
+      - item: Industrial Organization
+      - item: Real Estate
+      - item: Finance
 
   # References
   references:
     title: References
     info:
-      - name: Rafael Dix-Carneiro
-        affiliation: Duke University
       - name: Daniel Yi Xu
         affiliation: Duke University
-      - name: Andrea Lanteri
-        affiliation: Duke University
-      - name: Laura Castillo-Martinez
-        affiliation: Duke University
-
-# Main content areas
+      
+  # Main content areas
 education:
   title: Education
   info:
-    - degree: Ph.D. in Economics
-      university: Duke University
-      time: 2025
-    - degree: MA in Economics
-      university: Duke University
-      time: 2022
-    - degree: B.S. in Economics
-      university: University of Michigan - Ann Arbor
-      time: 2017
-
-employment:
-  title: "Employment"
-  experiences:
-    - title: "Assistant Professor of Economics"
-      institution: "University of Tennessee, Knoxville"
-      time: "August 2025 – Present"
+  - degree: Ph.D. in Economics
+    university: Duke University
+    time: 2021-2026 (expected)
+  - degree: MA in Economics
+    university: Yonsei University
+    time: 2021
+  - degree: BA in Economics
+    university: Yonsei University
+    time: 2019
 
 experiences:
   title: Experiences
   info:
     - role: PhD Graduate Assistant
-      time: August 2021 - May 2025
+      time: August 2022 - 
       company: Duke University
       location: Durham, NC
-      details: Research Assistant to Professor Rafael Dix-Carneiro
-    - role: Dissertation Fellow
-      time: August 2024
-      company: Federal Reserve Bank of St. Louis
-      location: St. Louis, MO
-      details: Dissertation Research
-    - role: Ph.D. Summer Intern
-      time: June 2024 - August 2024
-      company: Federal Reserve Bank of New York
+      details: Research/Teaching Assistant
+    - role: Economist Intern
+      time: May 2025 - August 2025
+      company: Amazon
       location: New York, NY
-      details: Dissertation Research
-    - role: Fund Internship Program (FIP)
-      time: June 2023 - September 2023
-      company: International Monetary Fund (IMF)
-      location: Washington, DC
-      details: Research Department (World Economic Studies Division)
-    - role: Short-Term Temporary (STT)
-      time: September 2021 - November 2021
-      company: World Bank
-      location: Durham, NC
-      details: The Impact of Trade Facilitation Policies on Consumer Prices in Brazil
-    - role: PhD Teaching Assistant
-      time: August 2020 - April 2021
-      company: Duke University
-      location: Durham, NC
-      details: First-year PhD sequence in Macroeconomics
+      details: Causal Inference
 
 languages:
   title: Languages
   info:
     - idiom: English
       level: Fluent
-    - idiom: Korean
+    - idiom: Korean  
       level: Native
-    - idiom: Spanish
-      level: Intermediate
-    - idiom: German
-      level: Intermediate
 
 computational-skills:
   title: Computational Skills
   toolset:
-    - name: Stata
-      level: Advanced
-    - name: MATLAB
+    - name: Python, R, SQL, Stata, Matlab
       level: Advanced
 
 about_me:
-  content: "I am an Assistant Professor of Economics at the University of Tennessee, Knoxville.<br><br> My research focuses on International Economics, Macroeconomics, and Environmental Economics. In my research, I study how capital and labor adjust dynamically in response to climate policies and how these adjustments shape global economic and environmental outcomes. I also examine the causes of persistent trade imbalances, the effects of commodity trade fragmentation, and the welfare implications of economic frictions and policy interventions.<br><br> You can find my <a href='/assets/files/cv.pdf'>CV</a> and <a href='https://scholar.google.com/citations?user=KiTGZocAAAAJ'>Google Scholar</a> profile. <br><br> Feel free to reach me at: dshin5 (at) utk (dot) edu."
+  content: "I am an Economics Phd Candidate in Duke University. <br><br> Feel free to reach me at: bomi.kang (at) duke (dot) edu."
   
 working_papers:
-  - title: "Climate Policies under Dynamic Factor Adjustment"
-    summary: "This paper develops and estimates a dynamic general equilibrium model of the global economy to investigate how imperfect and gradual adjustments of capital and labor across sectors affect the effectiveness of climate policies in reducing global emissions. The model's estimates indicate that both capital assets and workers exhibit low responsiveness to changes in climate policies, limiting the policies' ability to permanently and swiftly shift capital and labor out of the sector that extracts and processes raw fossil fuels. I demonstrate that a counterfactual subsidy implemented by China on non-fossil fuel energy sources would boost consumption and investment in the targeted sector but may inadvertently raise global emissions due to increased aggregate output and investment. Imperfect factor mobility amplifies this effect by limiting the reallocation of capital and labor away from the sector that produces fossil fuels. My findings underscore the need to (i) combine a subsidy on non-fossil fuel energy sources with a carbon tax and (ii) improve capital and labor mobility to both reduce global emissions and enhance aggregate consumption."
-    pdf: '/assets/files/JMP_DDS.pdf'  # Path to the PDF
-    Presentation: "Federal Reserve Bank of New York 2024; Federal Reserve Bank of St. Louis 2024; Duke University 2024; Economics Graduate Student Conference (WUSTL) 2024; Federal Reserve Board 2025; U.S. Government Accountability Office 2025; Penn Wharton Budget Model 2025; Korea Development Institute 2025; Korea Institute for International Economic Policy 2025; Korea Institute of Public Finance 2025; University of Tennessee, Knoxville 2025"
-  - title: "Understanding Trade Imbalances"
-    summary: "Are persistent trade imbalances signs of distortions? This paper investigates the drivers of persistent trade imbalances in eight advanced and emerging economies from 2000 to 2014. Using a dynamic general equilibrium framework, I rationalize the observed imbalances as outcomes of six key forces commonly discussed in the literature: (i) productivity growth, (ii) trade costs, (iii) financial frictions, (iv) life expectancy, (v) population growth, and (vi) economy-specific intertemporal distortions. The findings highlight that economy-specific intertemporal distortions, particularly in the United States, are the most significant driver of global imbalances. Additionally, changes in trade costs between China and its trading partners---the China shock---had a substantial impact on the trade imbalances of both China and the U.S. The results suggest that, without the China shock, the U.S. would have sustained persistent trade surpluses, while China would have experienced persistent deficits, emphasizing the importance of bilateral trade frictions in understanding global imbalances."
-    pdf: '/assets/files/TradeImbalances_DDS.pdf'  # Path to the PDF
-    Presentation: "Duke University 2023; Federal Reserve Bank of Richmond 2023; International Monetary Fund 2023; Economics Graduate Student Conference (WUSTL) 2023; Midwest International Trade & Theory Conference (Georgia Tech) 2023; Mid-Atlantic International Trade Workshop (Federal Reserve Board) 2024"
-
-
-works_in_progress:
-  - title: "Commodity Trade Fragmentation and Market Power"
+  - title: "Property Tax and Capitalization Channel"
     coauthors:
-      - name: "Chiara Maggi"
-        url: "https://sites.google.com/view/cmaggi/"
-      - name: "Alexandre Sollaci"
-        url: "https://sites.google.com/view/alexandresollaci/home"
-    summary: "Amid escalating tensions between the US and China, coupled with the conflict in Ukraine, concerns over the trade fragmentation of commodities intensified. This paper presents a novel framework to evaluate the potential welfare losses resulting from such fragmentation, with a focus on the unique characteristics of commodities, including their high geographical concentration, upstream nature, and limited substitutability.  Using a quantitative general equilibrium model incorporating international trade, firm heterogeneity, variable markups, inter-sectoral linkages, and unique commodity characteristics, we assess the welfare implications of hypothetical persistent disruptions in commodity trade between hypothetical US and China blocs. The model delivers five distinct welfare costs arising from commodity trade fragmentation: (i) declining foreign demand, (ii) increased imported input costs, (iii) competition-driven productivity reduction, (iv) a decline in the number of upstream suppliers, and (v) the increased market power of regional suppliers. We find that the reduction in upstream suppliers and the concurrent rise in regional market power significantly amplify the welfare costs associated with commodity trade fragmentation."
-    Presentation: "International Monetary Fund 2023; Duke University 2023"
-
-teaching:
-  title: "Teaching Experience"
-  description: >
-    My teaching experience includes assisting in PhD-level courses and providing tailored support to students to enhance their learning. Below are details about my teaching experience, philosophy, and evaluations.
-  experiences:
-    - course: "Macroeconomic Analysis I (PhD, Duke University)"
-      term: "Fall 2020"
-      role: ""
-      details: >
-        Assisted Professors Craig Burnside and Cosmin Ilut. Led problem-solving sessions, held office hours, and graded problem sets and exams.
-    - course: "Macroeconomic Analysis II (PhD, Duke University)"
-      term: "Spring 2021"
-      role: ""
-      details: >
-        Assisted Professors Andrea Lanteri and Francesco Bianchi. Led problem-solving sessions, held office hours, and graded problem sets and exams.
-    - course: "International Trade (PhD, Duke University)"
-      term: "Spring 2024, Fall 2025"
-      role: ""
-      details: >
-        Assisted Professor Rafael Dix-Carneiro in grading problem sets and exams.
-  materials:
-    - title: "Teaching Statement"
-      file: "/assets/files/ShinDavid_TeachingStatement.pdf"
-    - title: "Summary of Teaching Evaluations"
-      file: "/assets/files/ShinDavid_SummaryTeachingEvaluations.pdf"
-    - title: "Detailed Teaching Evaluations"
-      file: "/assets/files/ShinDavid_TeachingEvaluation.pdf"
-
+      - name: "Otavio Braga"
+    summary: "This paper "
+    Presentation: ""
     
-
-
-  
-
+works_in_progress:
+  - title: "Vertical Integration and Mortgage Backed Securities"    
+    summary: "This paper "
+    Presentation: ""
