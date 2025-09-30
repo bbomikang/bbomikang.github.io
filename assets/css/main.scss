@@ -1,0 +1,113 @@
+---
+# Only the three dashes are necessary here to let Jekyll process the file through its SCSS pipeline
+---
+
+@charset "utf-8";
+
+// Variables to handle layout based on sidebar position from site configuration
+{% if site.data.data.sidebar.position == 'left' %}
+$resume-order: 2;
+$sidebar-order: 1;
+{% else %}
+$resume-order: 1;
+$sidebar-order: 2;
+{% endif %}
+
+// Import theme-specific styles and default partials
+@import "skins/{{ site.theme_skin | default: 'blue' }}"; // Replace 'blue' with your default theme color
+@import "default"; // This contains the base styles for the site
+
+// Additional styles for the sidebar's references section
+.references-section {
+  margin-top: 20px;
+}
+
+.references-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Ensure there's no default margin */
+}
+
+.references-list li {
+  margin-bottom: 10px; /* Adds vertical space between list items */
+  font-size: 14px; /* Optional: adjust the font size as needed */
+}
+
+// General Section Title Styling
+.section-title {
+  font-size: 2.4rem; /* Main section title */
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.teaching-section p:first-of-type {
+  font-size: 1.3rem; /* Adjust font size as needed */
+  line-height: 1.5; /* Line spacing for readability */
+  margin-bottom: 15px; /* Space below the paragraph */
+}
+
+// Subsection Titles (e.g., "Teaching Assistant", "Teaching Evaluation")
+.teaching-assistant h2,
+.teaching-statement h2,
+.teaching-evaluation h2 {
+  font-size: 1.8rem; /* Subsection titles remain distinct but smaller than main title */
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.teaching-evaluation h3 {
+  font-size: 1.4rem; /* Smaller font for feedback categories */
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px; /* Balanced spacing */
+}
+
+// Smaller Font for Introductory Description
+.teaching-assistant p:first-of-type,
+.teaching-statement p:first-of-type,
+.teaching-evaluation p:first-of-type {
+  font-size: 1.3rem; /* Smaller size for introductory descriptions */
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+// Larger Text for Key Descriptions and Feedback
+.teaching-assistant ul li,
+.teaching-statement p:not(:first-of-type),
+.teaching-evaluation ul li {
+  font-size: 1.2rem; /* Slightly larger font for important text */
+  line-height: 1.6;  /* Balanced spacing between lines */
+  margin-bottom: 10px; /* Smaller spacing between list items */
+}
+
+// Bullet Points with Default Style
+.teaching-assistant ul,
+.teaching-evaluation ul {
+  list-style-type: disc; /* Standard bullet style */
+  margin-left: 20px; /* Slight indentation */
+  padding-left: 0;
+}
+
+// Button Styling for Download Links
+.teaching-evaluation .button,
+.teaching-statement .button {
+  display: inline-block;
+  padding: 10px 20px; /* Padding inside the button */
+  font-size: 1rem; /* Font size of button text */
+  font-weight: bold; /* Bold text for emphasis */
+  color: #ffffff; /* White text */
+  background-color: #007bff; /* Blue background */
+  border: 2px solid #007bff; /* Blue border */
+  border-radius: 5px; /* Rounded corners */
+  text-decoration: none; /* Remove underline */
+  text-align: center; /* Center text */
+  margin-top: 10px; /* Space above the button */
+  transition: background-color 0.3s, color 0.3s; /* Smooth hover effect */
+}
+
+.teaching-evaluation .button:hover,
+.teaching-statement .button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  color: #ffffff; /* Keep text white */
+}
+
