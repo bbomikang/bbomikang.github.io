@@ -51,16 +51,16 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: PhD Graduate Assistant
+    - role: Research/Teaching Assistant
       time: August 2022 - 
       company: Duke University
       location: Durham, NC
-      details: Research/Teaching Assistant
+      details: ""
     - role: Economist Intern
       time: May 2025 - August 2025
       company: Amazon
       location: New York, NY
-      details: Causal Inference
+      details: ""
 
 languages:
   title: Languages
