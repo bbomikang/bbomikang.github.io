@@ -77,7 +77,7 @@ computational-skills:
       level: Advanced
 
 about_me:
-  content: "Welcome! I am a Ph.D. candidate in Economics at Duke University. I study how the housing market functions as an interconnected system—linking the decisions of homeowners, lenders, and investors. My research examines how policies and financial structures shape housing prices, mobility, and risk. <br><br> Feel free to reach me at: bomi.kang (at) duke (dot) edu."
+  content: "Welcome! I am a Ph.D. candidate in Economics at Duke University. I study the housing market as an interconnected system spanning homeowners, lenders, investors, and the secondary market for mortgage-backed securities. My research uses causal inference and structural modeling to examine how policies and financial structures shape housing prices, mobility, and risk.<br> Feel free to reach me at: bomi.kang (at) duke (dot) edu."
   
 working_papers:
   - title: "Property Taxes and the Capitalization Channel: A Spatial Discontinuity Approach"
@@ -88,5 +88,9 @@ working_papers:
     
 works_in_progress:
   - title: "Vertical Integration and Mortgage Backed Securities"    
+    summary: ""
+    Presentation: ""
+
+  - title: "Reassessing Risk in Housing Markets: The Role of Selection"    
     summary: ""
     Presentation: ""
