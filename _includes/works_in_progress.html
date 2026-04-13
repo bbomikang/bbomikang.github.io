@@ -10,7 +10,7 @@
   <div class="item">
     <h3 class="job-title">
       {{ work.title }}
-      {% if work.coauthors %} <!-- Check if there are co-authors -->
+      {% if work.coauthors %}
         <small>(with
           {% for coauthor in work.coauthors %}
             <a href="{{ coauthor.url }}" target="_blank">{{ coauthor.name }}</a>{% unless forloop.last %}, {% endunless %}
@@ -19,10 +19,6 @@
       {% endif %}
     </h3>
     <div class="details">
-      <a href="#" onclick="toggleAbstract('wipAbstract{{ forloop.index }}'); return false;">[Abstract]</a>
-      <p id="wipAbstract{{ forloop.index }}" style="display:none;">
-        {{ work.summary }}
-      </p>
       {% if work.pdf %}
       <a href="{{ work.pdf }}" target="_blank">[Paper]</a>
       {% endif %}
