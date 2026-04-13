@@ -77,8 +77,10 @@ working_papers:
     coauthors:
       - name: "Otavio Braga"
         url: "https://otaviolmbraga.github.io"
+        
   - title: "Tax Inequity, Capitalization, and Constrained Buyers"    
-
+    pdf: "https://www.dropbox.com/scl/fi/huvv0mut2wuyxessb3pwc/main.pdf?rlkey=wk4xsm3wter1b0zg97y670ko1&dl=0"
+    
   - title: "Reassessing Risk in Housing Markets: The Role of Selection"    
     coauthors:
       - name: "Otavio Braga"
