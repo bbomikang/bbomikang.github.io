@@ -23,17 +23,9 @@ sidebar:
   interests:
     title: Research Interests
     info:
-      - item: Housing
       - item: Real Estate
       - item: Industrial Organization
       - item: Finance
-
-  # References
-  references:
-    title: References
-    info:
-      - name: Daniel Yi Xu
-        affiliation: Duke University
       
   # Main content areas
 education:
@@ -41,7 +33,7 @@ education:
   info:
   - degree: Ph.D. in Economics
     university: Duke University
-    time: 2021-2026 (expected)
+    time: 2021-
   - degree: MA in Economics
     university: Yonsei University
     time: 2021
@@ -81,17 +73,15 @@ about_me:
   content: "Welcome! I am a Ph.D. candidate in Economics at Duke University. I study the housing market as an interconnected system spanning homeowners, lenders, investors, and the secondary market for mortgage-backed securities. My research uses causal inference and structural modeling to examine how policies and financial structures shape housing prices, mobility, and risk.<br> Feel free to reach me at: bomi.kang (at) duke (dot) edu."
   
 working_papers:
-  - title: "Property Taxes and the Capitalization Channel: A Spatial Discontinuity Approach"
+  - title: "Property Taxes and Residential Mobility: Evidence from Sao Paulo"
     coauthors:
       - name: "Otavio Braga"
     summary: ""
-    Presentation: ""
+  - title: "Tax Inequity, Capitalization, and Constrained Buyers"    
+    summary: ""
     
 works_in_progress:
-  - title: "Vertical Integration and Mortgage Backed Securities"    
-    summary: ""
-    Presentation: ""
-
   - title: "Reassessing Risk in Housing Markets: The Role of Selection"    
+    coauthors:
+      - name: "Otavio Braga"
     summary: ""
-    Presentation: ""
