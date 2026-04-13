@@ -70,7 +70,7 @@ computational-skills:
       level: Advanced
 
 about_me:
-  content: "Welcome! I am a Ph.D. candidate in Economics at Duke University. I study the housing market as an interconnected system spanning homeowners, lenders, investors, and the secondary market for mortgage-backed securities. My research uses causal inference and structural modeling to examine how policies and financial structures shape housing prices, mobility, and risk.<br> Feel free to reach me at: bomi.kang (at) duke (dot) edu."
+  content: "Welcome! I am a Ph.D. candidate in Economics at Duke University. Feel free to reach me at: bomi.kang (at) duke (dot) edu."
   
 working_papers:
   - title: "Property Taxes and Residential Mobility: Evidence from Sao Paulo"
