@@ -8,19 +8,14 @@
   </h2>
   {% for paper in site.data.data.working_papers %}
   <div class="item">
-    <h3 class="job-title">{{ paper.title }}</h3>
-    {% if paper.coauthors %}
-    <p class="coauthors">with {% for author in paper.coauthors %}{% if author.url %}<a href="{{ author.url }}" target="_blank">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
-    {% endif %}
-    <div class="details">
+    <h3 class="job-title">{{ paper.title }}
       {% if paper.pdf %}
       <a href="{{ paper.pdf }}" target="_blank">[Paper]</a>
       {% endif %}
-      {% if paper.Presentation %}
-      <br>
-      <p><strong>Presentation:</strong> {{ paper.Presentation }}</p>
-      {% endif %}
-    </div><!--//details-->
+    </h3>
+    {% if paper.coauthors %}
+    <p class="coauthors">with {% for author in paper.coauthors %}{% if author.url %}<a href="{{ author.url }}" target="_blank">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+    {% endif %}
   </div><!--//item-->
   {% endfor %}
 </section><!--//section-->
