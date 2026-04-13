@@ -186,7 +186,11 @@ p {
   .working-papers-section,
   .works-in-progress-section {
     .item {
-      margin-bottom: 30px;
+      margin-bottom: 15px;
+    }
+    .coauthors {
+      margin-top: 2px;
+      margin-bottom: 0;
     }
   }
   .upper-row,
