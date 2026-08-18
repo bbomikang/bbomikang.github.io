@@ -14,7 +14,7 @@ $sidebar-order: 2;
 {% endif %}
 
 // Import theme-specific styles and default partials
-@import "skins/{{ site.theme_skin | default: 'blue' }}"; // Replace 'blue' with your default theme color
+@import "skins/{{ site.theme_skin | default: 'ceramic' }}"; // Replace 'blue' with your default theme color
 @import "default"; // This contains the base styles for the site
 
 // Additional styles for the sidebar's references section
