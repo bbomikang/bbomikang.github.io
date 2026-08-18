@@ -44,8 +44,13 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Summer Associate
+      time: May 2026 - August 2026
+      company: Analysis Group
+      location: New York, NY
+      details: ""
     - role: Research/Teaching Assistant
-      time: August 2022 - 
+      time: August 2022 - May 2026
       company: Duke University
       location: Durham, NC
       details: ""
