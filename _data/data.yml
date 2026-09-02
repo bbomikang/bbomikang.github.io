@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Bomi Kang
-  tagline: Economist
+  tagline: PhD Economist
   avatar: bomi.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -23,15 +23,15 @@ sidebar:
   interests:
     title: Research Interests
     info:
-      - item: Real Estate
-      - item: Industrial Organization
-      - item: Finance
+      - item: Causal Inference
+      - item: Applied Econometrics
+      - item: Housing
       
   # Main content areas
 education:
   title: Education
   info:
-  - degree: Ph.D. in Economics
+  - degree: PhD in Economics
     university: Duke University
     time: 2026
   - degree: MA in Economics
@@ -75,7 +75,7 @@ computational-skills:
       level: Advanced
 
 about_me:
-  content: "Welcome! I am an economist at Amazon specializing in causal inference. I hold a Ph.D. in Economics from Duke University, where my research focused on housing and applied econometrics."
+  content: "I am an economist at Amazon specializing in causal inference. I hold a PhD in Economics from Duke University, where my research focused on housing and applied econometrics."
   
 working_papers:
   - title: "Property Taxes and Residential Mobility: Evidence from Tax Reform in São Paulo"
