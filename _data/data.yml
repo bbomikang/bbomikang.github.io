@@ -14,30 +14,28 @@ sidebar:
 
   # Sidebar links
   email: bomi.kang@duke.edu
-  website: bbomikang.github.io 
   linkedin: bomikang1
 
   #pdf: '/assets/files/cv.pdf'  # Path to the CV PDF
 
   # Research Interests
   interests:
-    title: Research Interests
+    title: Fields of Interests
     info:
       - item: Causal Inference
-      - item: Applied Econometrics
-      - item: Housing
+      - item: Housing Economics
       
   # Main content areas
 education:
   title: Education
   info:
-  - degree: PhD in Economics
+  - degree: Ph.D. in Economics
     university: Duke University
     time: 2026
-  - degree: MA in Economics
+  - degree: M.A. in Economics
     university: Yonsei University
     time: 2021
-  - degree: BA in Economics
+  - degree: B.A. in Economics
     university: Yonsei University
     time: 2019
 
@@ -45,7 +43,7 @@ experiences:
   title: Experiences
   info:
     - role: Summer Associate
-      time: May 2026 - August 2026
+      time: 2026
       company: Analysis Group
       location: New York, NY
       details: ""
@@ -55,7 +53,7 @@ experiences:
       location: Durham, NC
       details: ""
     - role: Economist Intern
-      time: May 2025 - August 2025
+      time: 2025
       company: Amazon
       location: New York, NY
       details: ""
@@ -75,7 +73,7 @@ computational-skills:
       level: Advanced
 
 about_me:
-  content: "I am an economist at Amazon specializing in causal inference. I hold a PhD in Economics from Duke University, where my research focused on housing and applied econometrics."
+  content: "I am an Economist at Amazon. In Fall 2026, I joined the Ads Econ team to build Amazon's advertising strategy using a combination of econometrics and ML. <br><br> I hold a PhD in Economics from Duke University, where my research focused on housing economics."
   
 working_papers:
   - title: "Property Taxes and Residential Mobility: Evidence from Tax Reform in São Paulo"
