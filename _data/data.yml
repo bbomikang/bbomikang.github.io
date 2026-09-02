@@ -73,7 +73,7 @@ computational-skills:
       level: Advanced
 
 about_me:
-  content: "I am an Economist at Amazon. In Fall 2026, I joined the Ads Econ team to build Amazon's advertising strategy using a combination of econometrics and ML. <br><br> I hold a PhD in Economics from Duke University, where my research focused on housing economics."
+  content: "I am an Economist at Amazon. In Fall 2026, I joined the Ads Econ team to build Amazon's advertising strategy using a combination of econometrics and machine learning. <br><br> I hold a PhD in Economics from Duke University, where my research focused on housing economics."
   
 working_papers:
   - title: "Property Taxes and Residential Mobility: Evidence from Tax Reform in São Paulo"
