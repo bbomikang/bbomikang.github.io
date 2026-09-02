@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Bomi Kang
-  tagline: Economics PhD Candidate
+  tagline: Economist
   avatar: bomi.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -33,7 +33,7 @@ education:
   info:
   - degree: Ph.D. in Economics
     university: Duke University
-    time: 2021-
+    time: 2026
   - degree: MA in Economics
     university: Yonsei University
     time: 2021
@@ -75,7 +75,7 @@ computational-skills:
       level: Advanced
 
 about_me:
-  content: "Welcome! I am a Ph.D. candidate in Economics at Duke University. Feel free to reach me at: bomi.kang (at) duke (dot) edu."
+  content: "I am an economist specializing in causal inference. I hold a Ph.D. in Economics from Duke University, where my research focused on housing and applied econometrics."
   
 working_papers:
   - title: "Property Taxes and Residential Mobility: Evidence from Tax Reform in São Paulo"
