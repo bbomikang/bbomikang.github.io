@@ -111,3 +111,18 @@ $sidebar-order: 2;
   color: #ffffff; /* Keep text white */
 }
 
+// Lemon Icing Sidebar Text Fix
+.sidebar-wrapper, 
+.sidebar-wrapper .profile-container .name,
+.sidebar-wrapper .profile-container .tagline {
+  color: #3F4650 !important;
+}
+
+.sidebar-wrapper a, 
+.sidebar-wrapper .contact-list li i {
+  color: #3F4650 !important;
+}
+
+.sidebar-wrapper a:hover {
+  color: #1a1e24 !important; 
+}
